@@ -1,0 +1,36 @@
+h1 {
+    color: blue;
+}
+
+/* Photos section */
+
+.carousel-item {
+    height:280px ;
+    
+    
+
+
+}
+
+/* main section */
+
+#activities .card{
+    margin-bottom: 1.5rem;
+}
+
+
+/* grid visualisation CSS for testing */
+
+.container,
+.row {
+    border: 2px solid black;
+}
+
+.col-12 {
+    border: 2px solid white;
+    background-color: lightgray;
+}
+
+/* Media queries. Always at the bottom of the stylesheet to override any previous instructions. */
+
+/* Large devices (laptops and desktops, 992px and up) */
